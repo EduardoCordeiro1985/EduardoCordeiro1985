@@ -2,9 +2,8 @@
 
 [![Linkedim](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dudu.cordeiro1)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EdusrdoCordeiro1985&show_icons=true&theme=dracula&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
