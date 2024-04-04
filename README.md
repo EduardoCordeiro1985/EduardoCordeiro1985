@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dudu.cordeiro1)
 
 
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoCordeiro1985&show_icons=true&theme=dracula&count_private=true)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoCordeiro1985&show_icons=true&theme=nightowl&count_private=true)
 
 ## Tecnologias que eu uso no meu dia
 
