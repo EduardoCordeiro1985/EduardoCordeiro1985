@@ -18,4 +18,4 @@
    <img align="center" alt="java" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e buscando mudar de vida atraves do que aprendo.
+Apaixonado por tecnologia e educação, buscando mudar de vida atraves do que aprendo.
