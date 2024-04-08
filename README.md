@@ -2,16 +2,15 @@
 <br>
 <br> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=280&size=50&duration=4000&pause=1000&color=00ff08&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo+Cordeiro;I'm+38+years+old;I'm+a+FullStack+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=280&size=50&duration=4000&pause=1000&color=00bfbf&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo+Cordeiro;I'm+38+years+old;I'm+a+Web+FullStack+Developer;I'm+from+Fortaleza+Ceará+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
 
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardocordeiro1985&theme=shadow_green&show_icons=true)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardocordeiro1985&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Cordeiro1985 github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocordeiro1985&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
 
 <div align="center"> 
 <a href="https://instagram.com/duducordeiro17" target="_blank">
@@ -83,5 +82,5 @@
 <br>
 <br>
 <br>
-<img width=100% bottom=50px src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572"/>
+<img width=100% bottom=50px src="https://camo.githubusercontent.com/c66235b8ce5917181ae21327d19696e716710ace0a4495ac4f8c998d825332b3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572"/>
 <br>
