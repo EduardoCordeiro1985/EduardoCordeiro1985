@@ -1,7 +1,7 @@
 <img width=100% bottom=50px src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572"/>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=280&size=50&duration=4000&pause=1000&color=00bfbf&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo+Cordeiro;I'm+39+years+old;I'm+a+Web+FullStack+Developer;I'm+from+Fortaleza+Ceará+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=280&size=45&duration=4000&pause=1000&color=00bfbf&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo+Cordeiro;I'm+39+years+old;I'm+a+Web+FullStack+Developer;I'm+from+Fortaleza+Ceará+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 
