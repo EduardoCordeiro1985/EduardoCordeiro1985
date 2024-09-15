@@ -1,16 +1,17 @@
-<img width=100% bottom=50px src="https://camo.githubusercontent.com/d323bf92adb96c6b2f1fe6d7a1f4ab7fb8cd328db04cb5d9ce8efbd84a7d7813/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d686561646572"/>
+<div class="bg-gradient-to-r from-blue-500 to-purple-500 h-12 w-full mt-4">
+  </div>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=280&size=45&duration=4000&pause=1000&color=00bfbf&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo+Cordeiro;I'm+39+years+old;I'm+a+Web+FullStack+Developer;I'm+from+Fortaleza+Ceará+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=280&size=45&duration=4000&pause=1000&color=00bfbf¢er=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Eduardo+Cordeiro;I'm+39+years+old;I'm+a+Web+FullStack+Developer;I'm+from+Fortaleza+Ceará+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 
-<div align="center">  
+<div class="flex justify-center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eduardocordeiro1985&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eduardo Cordeiro1985 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardocordeiro1985&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<div align="center"> 
+<div class="flex justify-center mt-4"> 
 <a href="https://instagram.com/duducordeiro17" target="_blank">
 <img align="center" height="60" width="70" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -25,14 +26,14 @@
 
 </div>
 
-<div align="center" >
+<div class="flex justify-center" >
    
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/eduardocordeiro1985?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dracula) 
 
 </div>
 
 ### Main skills:
-<div align="left"> 
+<div class="flex flex-wrap gap-2 mt-4"> 
 <img align="left" height="50" width="50" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 
 <img align="left" height="50" width="50" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
@@ -55,9 +56,9 @@
 <br> 
 <br>
 
-<h2 align="left"> Studying in this moment: </h2>
+<h2 align="left" class="text-xl font-bold"> Studying in this moment: </h2>
 
-<div align="left"> 
+<div class="flex flex-wrap gap-2 mt-4"> 
 
 <img align="left"  height="50" width="50" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -72,5 +73,6 @@
 <br> 
 <br>
 
-<img width=100% bottom=50px src="https://camo.githubusercontent.com/c66235b8ce5917181ae21327d19696e716710ace0a4495ac4f8c998d825332b3/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303062666266266865696768743d3132302673656374696f6e3d666f6f746572"/>
+<div class="bg-gradient-to-r from-blue-500 to-purple-500 h-12 w-full mt-4">
+  </div>
 <br>
